@@ -1,1 +1,4 @@
+非常有用
+
 提供了MSER算法的伪代码
+直接用的OPENCV中的cvExtractMSER函数
