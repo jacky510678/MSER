@@ -10,3 +10,10 @@ MSER检测
   3、得到MSER
 MSER区拟合
 MSER区域归一化
+
+
+合并-查找（UnionFind）算法介绍
+http://blog.csdn.net/dm_vincent/article/details/7655764
+
+Component Tree的数据结构
+基于组件树滤波及快速区域合并的分水岭分割算法_闫沫
